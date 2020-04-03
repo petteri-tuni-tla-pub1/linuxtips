@@ -1,0 +1,10 @@
+chage - user account aging 
+
+To get to aging info of a userid
+
+   # chage -l <USER>
+
+Add some
+alkdsjajlkadsj
+
+
